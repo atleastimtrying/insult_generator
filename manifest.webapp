@@ -1,0 +1,14 @@
+{
+  "name": "Insult Generator",
+  "description": "A swear less insult generator.",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Anders and Tom",
+    "url": "http://andersfisher.com"
+  },
+  "icons": {
+    "128": "/icon.png"
+  },
+  "fullscreen": "true",
+  "default_locale": "en"
+}
